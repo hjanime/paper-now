@@ -1,12 +1,12 @@
 ---
 layout: article
-title: "My First Article"
+title: "Metagenome survey of the fecal microbiota provide insights into nutritional adaptation mechanism of bamboo-eating giant panda in the diet transition period"
 doi: # e.g. 10.1234/example.1
 date: # e.g. 2015-09-142
 authors:
-  - name: First Author
-    email: jiehuang@ablife.cc
-    url: http://example.com/authors/1
+  - name: Yi Zhang
+    email: yizhang@ablife.cc
+    url: http://ablife.cc
     affiliations:
       - address: Department, Institution, City, Postal Code, Country
     funders:
