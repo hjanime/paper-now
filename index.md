@@ -14,7 +14,7 @@ authors:
       - name: 
         url:
         doi:
-        awards: [ GSC 218 ]
+        awards: [ ABL2013-05004 ]
   - name: Jie Huang
     email: jiehuang@ablife.cc
     affiliations:
@@ -23,9 +23,9 @@ authors:
 abstract: |
         **Please note: This is an experimental [Paper Now](https://github.com/PeerJ/paper-now) version of [this PeerJ article](https://peerj.com/articles/858/). No guarantees are given for the correctness or completeness of this experimental version.**
 
-        *Achnanthidium minutissimum* is a benthic freshwater diatom that forms biofilms on submerged surfaces in aquatic environments. Within these biofilms, *A. minutissimum* cells produce extracellular structures which facilitate substrate adhesion, such as stalks and capsules. Both consist of extracellular polymeric substance (EPS), but the microstructure and development stages of the capsules are so far unknown, despite a number of hypotheses about their function, including attachment and protection. We coupled scanning electron microscopy (SEM) to bright-field microscopy (BFM) and found that *A. minutissimum* capsules mostly possess an unstructured surface. However, capsule material that was mechanically stressed by being stretched between or around cells displayed fibrillar substructures. Fibrils were also found on the frustules of non-encapsulated cells, implicating that *A. minutissimum* capsules may develop from fibrillar precursors. Energy-dispersive X-ray (EDX) spectroscopy revealed that the capsule material does not contain silicon, distinguishing it from the frustule material. We furthermore show that bacteria preferentially attach to capsules, instead of non-encapsulated *A. minutissimum* cells, which supports the idea that capsules mediate diatom-bacteria interactions.
+        The giant panda *(Ailuropoda melanoleura)*, one of the most endangered mammals with only ~2000 adult survived and less 10 new-born captive children each year in the southwestern China, is widely interested by its carnivore-like gastrointestine but herbivore-like diet that gives them a high risk of extinction (1, 2). For this mammal, a short and relatively simple digestive tract of as typical carnivore without a rumen for fermentation makes this mammal processing bamboo with a low digestibility (only ~17%), and thus they have to consuming a lot of bamboo (~12.5 kg) and time (up to 14 h) to ensure the least nutrition each day (2-4). Recently, the advent of high-throughput sequencing technologies has led to a turning point in our understanding of this animal intestinal microbial colonization. Several researches revealed the constructions and part potential functions of gut flora for this mammal by metagenomics procedure (5-8), which were more comprehensive and accurate than early culture-dependent studies (9, 10) or traditional molecular approaches (11, 12). However, with increasing projects we found there are large community variations between the different researches below, for example, Li Y, et al. (5) identified gut microbiota were contrary to Tun HM, et al. (8) with much lower diversity and dominated mainly by class *Streptococcus* but not *Gammaproteobacteria*.
 
-keywords: Biofilms, Diatoms, "Scanning Electron Microscopy", "Energy-Dispersive X-Ray Spectroscopy", "Diatom-Bacteria Interactions"
+keywords: Nutritional adaptation,  Giant panda, Metagenomics,  Gut microbiota
 
-acknowledgements: "We thank Joachim Hentschel, Lauretta Nejedli and Michael Laumann of the [Electron Microscopy Center of the University of Konstanz](http://cms.uni-konstanz.de/biologie/gremien-einrichtungen/em-service/emc/home/) for sample preparation, SEM and EDX device operations, and insightful discussions, as well as Ansgar Gruber and Carolina Rio Bartulos for helpful ideas and suggestions. Our gratitude also belongs to two anonymous reviewers whose valuable suggestions improved this manuscript greatly."
+acknowledgements: "We thank XXXX for sample preparation, illumina device operations, and insightful discussions, as well as XXXX for helpful ideas and suggestions. Our gratitude also belongs to two anonymous reviewers whose valuable suggestions improved this manuscript greatly."
 ---
