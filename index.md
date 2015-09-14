@@ -2,10 +2,10 @@
 layout: article
 title: "My First Article"
 doi: # e.g. 10.1234/example.1
-date: # e.g. 2015-03-02
+date: # e.g. 2015-09-142
 authors:
   - name: First Author
-    email: first.author@example.com
+    email: jiehuang@ablife.cc
     url: http://example.com/authors/1
     affiliations:
       - address: Department, Institution, City, Postal Code, Country
