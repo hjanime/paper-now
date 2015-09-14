@@ -1,32 +1,31 @@
 ---
 layout: article
-title: "Metagenome survey of the fecal microbiota provide insights into nutritional adaptation mechanism of bamboo-eating giant panda in the diet transition period"
-doi: # e.g. 10.1234/example.1
-date: # e.g. 2015-09-142
+title: "Panda Project"
+doi: XXXXXX
+date: 2015-09-14
 authors:
   - name: Yi Zhang
     email: yizhang@ablife.cc
-    url: http://ablife.cc
+    url: https://github.com/
     affiliations:
-      - address: Department, Institution, City, Postal Code, Country
+      - address: CEO & Chief Scientist ABLife, Inc. Optics Valley International Biomedical Park, Building 9-4,  
+        url: http://ablife.cc/
     funders:
-        - name: Medical Research Council
-          doi: 10.13039/501100000265
-          awards: [ MRC123, MRC456 ]
-  - name: Second Author
-    email: second.author@example.com
+      - name: 
+        url:
+        doi:
+        awards: [ GSC 218 ]
+  - name: Jie Huang
+    email: jiehuang@ablife.cc
     affiliations:
-      - address: Department, Institution, City, Postal Code, Country
-        url: http://mathematics.stanford.edu/
-      - address: Department, Institution, City, Postal Code, Country
-    funders:
-      - name: National Institutes of Health
-        url: http://www.nih.gov/
-        doi: 10.13039/100000002
-        awards: [ NIH123 ]
+      - address: Optics Valley International Biomedical Park, Building 9-4, Wuhan,Chnia
+        url: https://github.com/
 abstract: |
-    This is the first paragraph of the abstract.
+        **Please note: This is an experimental [Paper Now](https://github.com/PeerJ/paper-now) version of [this PeerJ article](https://peerj.com/articles/858/). No guarantees are given for the correctness or completeness of this experimental version.**
 
-    This is another paragraph of the abstract.
-acknowledgements: "Our gratitude belongs to these people."
+        *Achnanthidium minutissimum* is a benthic freshwater diatom that forms biofilms on submerged surfaces in aquatic environments. Within these biofilms, *A. minutissimum* cells produce extracellular structures which facilitate substrate adhesion, such as stalks and capsules. Both consist of extracellular polymeric substance (EPS), but the microstructure and development stages of the capsules are so far unknown, despite a number of hypotheses about their function, including attachment and protection. We coupled scanning electron microscopy (SEM) to bright-field microscopy (BFM) and found that *A. minutissimum* capsules mostly possess an unstructured surface. However, capsule material that was mechanically stressed by being stretched between or around cells displayed fibrillar substructures. Fibrils were also found on the frustules of non-encapsulated cells, implicating that *A. minutissimum* capsules may develop from fibrillar precursors. Energy-dispersive X-ray (EDX) spectroscopy revealed that the capsule material does not contain silicon, distinguishing it from the frustule material. We furthermore show that bacteria preferentially attach to capsules, instead of non-encapsulated *A. minutissimum* cells, which supports the idea that capsules mediate diatom-bacteria interactions.
+
+keywords: Biofilms, Diatoms, "Scanning Electron Microscopy", "Energy-Dispersive X-Ray Spectroscopy", "Diatom-Bacteria Interactions"
+
+acknowledgements: "We thank Joachim Hentschel, Lauretta Nejedli and Michael Laumann of the [Electron Microscopy Center of the University of Konstanz](http://cms.uni-konstanz.de/biologie/gremien-einrichtungen/em-service/emc/home/) for sample preparation, SEM and EDX device operations, and insightful discussions, as well as Ansgar Gruber and Carolina Rio Bartulos for helpful ideas and suggestions. Our gratitude also belongs to two anonymous reviewers whose valuable suggestions improved this manuscript greatly."
 ---
